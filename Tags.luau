@@ -10,6 +10,11 @@ tagUsers["Poop79783"] = {
     ["Color"] = Color3.fromRGB(116, 88, 255)
 }
 
+tagUsers["NicePoitUGC"] = {
+    ["Tag"] = '"jew"',
+    ["Color"] = Color3.fromRGB(150, 0, 0)
+}
+
 local cone = {
     ["Tag"] = "Cone",
     ["Color"] = Color3.fromRGB(255, 203, 92)
