@@ -5,6 +5,10 @@ tagUsers["Real_revvybxnned11"] = {
     ["Color"] = Color3.fromRGB(239, 4, 255)
 }
 
+tagUsers["qnexfprn"] = {
+    ["Tag"] = "THE GOAT",
+    ["Color"] = Color3.fromRGB(255, 0, 0)
+}
 
 tagUsers["Poop79783"] = {
     ["Tag"] = "Scat Man",
